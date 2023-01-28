@@ -1,5 +1,5 @@
-### ansible-config-rhel8.4
-ansible configuration for `rhel 8`
+### Ansible-config-rhel8.4
+Ansible configuration for `rhel 8`
  - yum install `rpm files`
  - ansible-core file is not needed to install
  - if you can't find `libmodulemd` then find it with
