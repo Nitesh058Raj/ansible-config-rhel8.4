@@ -1,0 +1,4 @@
+yum install python36
+yum install libmodulemd-2.12.1-1.el8.x86_64.rpm
+yum remove python2
+yum install python3-libmodulemd-2.12.1-1.el8.x86_64.rpm
